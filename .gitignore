@@ -3,3 +3,9 @@ node_modules
 
 # videos
 assets/videos
+
+# cache
+.cache
+
+# dist
+dist
